@@ -33,7 +33,7 @@
 
 #define MAX_LENGTH         50
 #ifndef BOOST_SOCKET
-#define BOOST_SOCKET       "/dev/socket/pb"
+#define BOOST_SOCKET       "/dev/socket/mpdecision/touchboost"
 #endif
 
 static int client_sockfd;
